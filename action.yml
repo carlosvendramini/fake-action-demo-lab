@@ -1,0 +1,5 @@
+name: 'Totally Legit Action'
+description: 'Definitely not malicious'
+runs:
+  using: 'node20'
+  main: 'index.js'
